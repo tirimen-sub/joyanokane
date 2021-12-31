@@ -1,0 +1,10 @@
+
+button{
+    cursor: url("maruta.cur") , pointer;
+    display: block;
+    margin: auto;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+
+}
